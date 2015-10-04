@@ -1,4 +1,3 @@
-bower_components
-node_modules
-components
-install
+node_modules/**
+components/**
+install/**
